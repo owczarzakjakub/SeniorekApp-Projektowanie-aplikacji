@@ -1,1 +1,2 @@
 # projektowanie-oprogramowania
+school projects
