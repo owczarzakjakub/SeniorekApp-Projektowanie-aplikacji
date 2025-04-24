@@ -9,7 +9,7 @@ Zawiera analizę istniejących aplikacji wspierających seniorów.
 
 Przedstawia konkurencję oraz ocenę ich mocnych i słabych stron.
 
- 
+ <br><br>
 
 DefiniowanieProblemu.docx
 
