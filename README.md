@@ -3,7 +3,7 @@
   <br><br>
 
 Zawartość repozytorium:
- <br>
+ <br><br>
 
 Analiza Konkurencji JakubOwczarzak.docx
 
