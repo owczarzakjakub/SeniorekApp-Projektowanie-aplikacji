@@ -63,4 +63,5 @@ Przydatna podczas prezentacji projektu zespołowi lub interesariuszom.
 
 README.md
 
-Ten plik – opisujący projekt i zawartość repozytorium.
+Ten plik – opisujący projekt i zawartość repozytorium .
+
